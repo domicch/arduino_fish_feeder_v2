@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arduino IDE build output
+build/
+*.elf
+*.hex
+*.bin
+*.map
+
+# Arduino IDE 2.x
+.arduino15/
